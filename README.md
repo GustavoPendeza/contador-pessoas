@@ -23,7 +23,7 @@ Esse contador tem um limite máximo de 20 pessoas dentro do estabelecimento.
 </div>
 
 ## Imagem de fundo
-<a href='https://www.freepik.com/photos/bar-background'>Bar background photo created by ijeab - www.freepik.com</a>
+<a href='https://www.freepik.com/free-photo/blur-coffee-cafe-shop-restaurant-with-bokeh-background_1235557.htm'>Bar background photo created by ijeab</a>
 
 ## Ícone utilizado como ícone do App
-<a href="https://www.flaticon.com/br/icones-gratis/adicionar" title="adicionar ícones">Adicionar ícones criados por Freepik - Flaticon</a>
+<a href="https://www.flaticon.com/br/icone-gratis/adicionar-grupo_1647547" title="adicionar ícones">Ícone criado por Freepik - Flaticon</a>
